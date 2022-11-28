@@ -1,4 +1,4 @@
-public class Employee
+public class Employees
 {
    private int empNum;
    private double empPayRate;
