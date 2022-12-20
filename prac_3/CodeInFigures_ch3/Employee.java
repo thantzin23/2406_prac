@@ -4,10 +4,12 @@ public class Employee
    private String empLastName;
    private String empFirstName;
    private double empSalary;
+
    public int getEmpNum()
    {
       return empNum;
    }
+
    public void setEmpNum(int emp)
    {
       empNum = emp;
@@ -28,6 +30,7 @@ public class Employee
    {
       empFirstName = name;
    }
+
    public double getEmpSalary()
    {
       return empSalary;
