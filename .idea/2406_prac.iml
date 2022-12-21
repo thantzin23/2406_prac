@@ -15,7 +15,12 @@
       <sourceFolder url="file://$MODULE_DIR$/prac_3/CodeInFigures_ch3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prac_3/CodeInFigures_ch4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prac_3/DebuggingExercises_ch3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prac_3/DebuggingExercises_ch4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prac_3/DebuggingExercises_ch4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prac_3/Exercises_ch3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prac_3/Exercises_ch4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prac_4/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prac_4/DebuggingExercises" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
